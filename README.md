@@ -50,6 +50,6 @@ It builds a machine learning model to predict a student’s final exam score bas
 ## 🚀 How to Run
 
 ```bash
-1. Clone this repo
-2. Open the notebook in Google Colab or Jupyter
+1. Download Repo
+2. Add a colab file 
 3. Run each cell step-by-step
